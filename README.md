@@ -29,7 +29,19 @@ Components used in this project:
 7. Verified the web server was accessible via public IP
 
 ---
+## Screenshots
 
+### EC2 Instance Running
+![EC2](EC2-running-web.png)
+
+### HTTP Port 80 Responding
+![HTTP](port-80-responding.png)
+
+### RDS Database Query
+![Database](database-query-results.png)
+
+### RDS Website
+![RDS](rds-website-sc.png)
 ## Commands Used
 
 Install NGINX
